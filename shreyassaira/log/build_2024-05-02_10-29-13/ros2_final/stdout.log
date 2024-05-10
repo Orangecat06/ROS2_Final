@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/ros2_final/ros2_final.egg-info/PKG-INFO
+writing dependency_links to ../../build/ros2_final/ros2_final.egg-info/dependency_links.txt
+writing entry points to ../../build/ros2_final/ros2_final.egg-info/entry_points.txt
+writing requirements to ../../build/ros2_final/ros2_final.egg-info/requires.txt
+writing top-level names to ../../build/ros2_final/ros2_final.egg-info/top_level.txt
+reading manifest file '../../build/ros2_final/ros2_final.egg-info/SOURCES.txt'
+writing manifest file '../../build/ros2_final/ros2_final.egg-info/SOURCES.txt'
+running build
+running build_py
+copying ros2_final/map_pub.py -> /home/controlslab/shreyassaira/build/ros2_final/build/lib/ros2_final
+running install
+running install_lib
+copying /home/controlslab/shreyassaira/build/ros2_final/build/lib/ros2_final/map_pub.py -> /home/controlslab/shreyassaira/install/ros2_final/lib/python3.10/site-packages/ros2_final
+byte-compiling /home/controlslab/shreyassaira/install/ros2_final/lib/python3.10/site-packages/ros2_final/map_pub.py to map_pub.cpython-310.pyc
+running install_data
+copying package.xml -> /home/controlslab/shreyassaira/install/ros2_final/share/ros2_final
+running install_egg_info
+removing '/home/controlslab/shreyassaira/install/ros2_final/lib/python3.10/site-packages/ros2_final-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/ros2_final/ros2_final.egg-info to /home/controlslab/shreyassaira/install/ros2_final/lib/python3.10/site-packages/ros2_final-0.0.0-py3.10.egg-info
+running install_scripts
+Installing pub_sub script to /home/controlslab/shreyassaira/install/ros2_final/lib/ros2_final
+writing list of installed files to '/home/controlslab/shreyassaira/build/ros2_final/install.log'

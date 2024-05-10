@@ -1,0 +1,33 @@
+[0.352s] Invoking command in '/home/controlslab/shreyassaira/src/ros2_final': PYTHONPATH=/home/controlslab/shreyassaira/build/ros2_final/prefix_override:/home/controlslab/shreyassaira/install/ros2_final/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ros2_final build --build-base /home/controlslab/shreyassaira/build/ros2_final/build install --record /home/controlslab/shreyassaira/build/ros2_final/install.log --single-version-externally-managed install_data
+[0.483s] running egg_info
+[0.484s] creating ../../build/ros2_final/ros2_final.egg-info
+[0.484s] writing ../../build/ros2_final/ros2_final.egg-info/PKG-INFO
+[0.484s] writing dependency_links to ../../build/ros2_final/ros2_final.egg-info/dependency_links.txt
+[0.484s] writing entry points to ../../build/ros2_final/ros2_final.egg-info/entry_points.txt
+[0.484s] writing requirements to ../../build/ros2_final/ros2_final.egg-info/requires.txt
+[0.484s] writing top-level names to ../../build/ros2_final/ros2_final.egg-info/top_level.txt
+[0.484s] writing manifest file '../../build/ros2_final/ros2_final.egg-info/SOURCES.txt'
+[0.485s] reading manifest file '../../build/ros2_final/ros2_final.egg-info/SOURCES.txt'
+[0.485s] writing manifest file '../../build/ros2_final/ros2_final.egg-info/SOURCES.txt'
+[0.485s] running build
+[0.485s] running build_py
+[0.485s] creating /home/controlslab/shreyassaira/build/ros2_final/build
+[0.486s] creating /home/controlslab/shreyassaira/build/ros2_final/build/lib
+[0.486s] creating /home/controlslab/shreyassaira/build/ros2_final/build/lib/ros2_final
+[0.486s] copying ros2_final/__init__.py -> /home/controlslab/shreyassaira/build/ros2_final/build/lib/ros2_final
+[0.486s] running install
+[0.486s] running install_lib
+[0.486s] creating /home/controlslab/shreyassaira/install/ros2_final/lib/python3.10/site-packages/ros2_final
+[0.486s] copying /home/controlslab/shreyassaira/build/ros2_final/build/lib/ros2_final/__init__.py -> /home/controlslab/shreyassaira/install/ros2_final/lib/python3.10/site-packages/ros2_final
+[0.486s] byte-compiling /home/controlslab/shreyassaira/install/ros2_final/lib/python3.10/site-packages/ros2_final/__init__.py to __init__.cpython-310.pyc
+[0.487s] running install_data
+[0.487s] creating /home/controlslab/shreyassaira/install/ros2_final/share/ament_index
+[0.487s] creating /home/controlslab/shreyassaira/install/ros2_final/share/ament_index/resource_index
+[0.487s] creating /home/controlslab/shreyassaira/install/ros2_final/share/ament_index/resource_index/packages
+[0.487s] copying resource/ros2_final -> /home/controlslab/shreyassaira/install/ros2_final/share/ament_index/resource_index/packages
+[0.487s] copying package.xml -> /home/controlslab/shreyassaira/install/ros2_final/share/ros2_final
+[0.487s] running install_egg_info
+[0.488s] Copying ../../build/ros2_final/ros2_final.egg-info to /home/controlslab/shreyassaira/install/ros2_final/lib/python3.10/site-packages/ros2_final-0.0.0-py3.10.egg-info
+[0.488s] running install_scripts
+[0.500s] writing list of installed files to '/home/controlslab/shreyassaira/build/ros2_final/install.log'
+[0.513s] Invoked command in '/home/controlslab/shreyassaira/src/ros2_final' returned '0': PYTHONPATH=/home/controlslab/shreyassaira/build/ros2_final/prefix_override:/home/controlslab/shreyassaira/install/ros2_final/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ros2_final build --build-base /home/controlslab/shreyassaira/build/ros2_final/build install --record /home/controlslab/shreyassaira/build/ros2_final/install.log --single-version-externally-managed install_data

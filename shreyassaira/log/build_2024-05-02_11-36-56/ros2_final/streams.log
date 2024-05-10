@@ -1,0 +1,19 @@
+[0.334s] Invoking command in '/home/controlslab/shreyassaira/build/ros2_final': PYTHONPATH=/home/controlslab/shreyassaira/build/ros2_final/prefix_override:/home/controlslab/shreyassaira/install/ros2_final/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/controlslab/shreyassaira/build/ros2_final/build --no-deps symlink_data --force
+[0.487s] running develop
+[0.567s] running egg_info
+[0.567s] writing ros2_final.egg-info/PKG-INFO
+[0.568s] writing dependency_links to ros2_final.egg-info/dependency_links.txt
+[0.568s] writing entry points to ros2_final.egg-info/entry_points.txt
+[0.568s] writing requirements to ros2_final.egg-info/requires.txt
+[0.568s] writing top-level names to ros2_final.egg-info/top_level.txt
+[0.570s] reading manifest file 'ros2_final.egg-info/SOURCES.txt'
+[0.570s] writing manifest file 'ros2_final.egg-info/SOURCES.txt'
+[0.571s] running build_ext
+[0.571s] Creating /home/controlslab/shreyassaira/install/ros2_final/lib/python3.10/site-packages/ros2-final.egg-link (link to .)
+[0.572s] Installing pub_sub script to /home/controlslab/shreyassaira/install/ros2_final/lib/ros2_final
+[0.572s] 
+[0.572s] Installed /home/controlslab/shreyassaira/build/ros2_final
+[0.572s] running symlink_data
+[0.572s] symbolically linking /home/controlslab/shreyassaira/build/ros2_final/resource/ros2_final -> /home/controlslab/shreyassaira/install/ros2_final/share/ament_index/resource_index/packages
+[0.572s] symbolically linking /home/controlslab/shreyassaira/build/ros2_final/package.xml -> /home/controlslab/shreyassaira/install/ros2_final/share/ros2_final
+[0.589s] Invoked command in '/home/controlslab/shreyassaira/build/ros2_final' returned '0': PYTHONPATH=/home/controlslab/shreyassaira/build/ros2_final/prefix_override:/home/controlslab/shreyassaira/install/ros2_final/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/controlslab/shreyassaira/build/ros2_final/build --no-deps symlink_data --force

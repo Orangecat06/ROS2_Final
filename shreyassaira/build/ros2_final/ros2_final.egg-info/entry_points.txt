@@ -1,0 +1,3 @@
+[console_scripts]
+pub_sub = ros2_final.map_pub:main
+
